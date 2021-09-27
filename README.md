@@ -1,5 +1,4 @@
-# CalculadoraIMC
- CalculadoraIMC
+# Calculadora IMC
 
 Calculadora que calcula o IMC do usuario pelo console.
 
