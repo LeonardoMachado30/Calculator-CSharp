@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-Calculadora que calcula o IMC do usuario pelo console.
+Calculadora de IMC pelo console.
 
 
 BAIXAR DEPENDENCIAS SE NECESSARIO:
